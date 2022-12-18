@@ -30,7 +30,7 @@ export default function App() {
           </h1>
           <ul>
             <li>
-              Currently: <span id="date">Thursday 15:10</span>
+              Currently: <span id="date">Thursday 15:09</span>
             </li>
             <li id="description">clear sky</li>
           </ul>
